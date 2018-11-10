@@ -1,0 +1,505 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{7CA26AA7-1D00-4493-88EE-D3DBDB14EB87}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>WindowsApplication1.Login_Panel</StartupObject>
+    <RootNamespace>WindowsApplication1</RootNamespace>
+    <AssemblyName>James Bank</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsFormsWithCustomSubMain</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>James Bank.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>James Bank.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data, Version=6.9.9.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CustomerPasswordChange.Designer.vb">
+      <DependentUpon>CustomerPasswordChange.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CustomerPasswordChange.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminPanelv2.Designer.vb">
+      <DependentUpon>AdminPanelv2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AdminPanelv2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ClientTransHistory.Designer.vb">
+      <DependentUpon>ClientTransHistory.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ClientTransHistory.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TransacHistory.Designer.vb">
+      <DependentUpon>TransacHistory.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TransacHistory.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login_Panel.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login_Panel.Designer.vb">
+      <DependentUpon>Login_Panel.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BalanceInquiry.Designer.vb">
+      <DependentUpon>BalanceInquiry.vb</DependentUpon>
+    </Compile>
+    <Compile Include="BalanceInquiry.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu.Designer.vb">
+      <DependentUpon>Menu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Menu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admincreateaccount.Designer.vb">
+      <DependentUpon>Admincreateaccount.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Admincreateaccount.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Deposit.Designer.vb">
+      <DependentUpon>Deposit.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Deposit.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminChangePass.Designer.vb">
+      <DependentUpon>AdminChangePass.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AdminChangePass.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserChangePin.Designer.vb">
+      <DependentUpon>UserChangePin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserChangePin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Withdraw.Designer.vb">
+      <DependentUpon>Withdraw.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Withdraw.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transfer.Designer.vb">
+      <DependentUpon>Transfer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Transfer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="CustomerPasswordChange.resx">
+      <DependentUpon>CustomerPasswordChange.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminPanelv2.resx">
+      <DependentUpon>AdminPanelv2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ClientTransHistory.resx">
+      <DependentUpon>ClientTransHistory.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TransacHistory.resx">
+      <DependentUpon>TransacHistory.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login_Panel.resx">
+      <DependentUpon>Login_Panel.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BalanceInquiry.resx">
+      <DependentUpon>BalanceInquiry.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu.resx">
+      <DependentUpon>Menu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admincreateaccount.resx">
+      <DependentUpon>Admincreateaccount.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Deposit.resx">
+      <DependentUpon>Deposit.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminChangePass.resx">
+      <DependentUpon>AdminChangePass.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserChangePin.resx">
+      <DependentUpon>UserChangePin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Withdraw.resx">
+      <DependentUpon>Withdraw.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transfer.resx">
+      <DependentUpon>Transfer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login_image.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\App-login-manager-icon.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Tatice-Cristal-Intense-Ok.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Go-back-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Custom-Icon-Design-Flatastic-8-Go-back.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Go-back-icon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\admin-login.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cog-add-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add_admin.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Go-back-icon2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Go-back-icon3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\view.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Accept-database-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\check.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\back.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Register-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\back1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\back2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\back3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\back4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Zoom-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\check1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cash_out_coins_hand_loan_loan_money_money_icon_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bag_bank_coins_finance_money_saving_icon_48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bank_guardar_lock_password_safe_safety_save_secure_icon_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\back5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\currency_currency_exchange_dollar_euro_exchange_finance_money_icon_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\check2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Zoom-icon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cog-add-icon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\back6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\back7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Webp.net-resizeimage.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\check3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Zoom-icon2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-customer-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user-accept-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Apps-User-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bank_guardar_lock_password_safe_safety_save_secure_icon_321.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\STRONGBOX_SEP_17_EEZY_04-01.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\STRONGBOX_SEP_17_EEZY_04-011.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\safe-box.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pay-per-click.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pay-per-click1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\transfer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\atm.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\locked-card.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cog-add-icon2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\networking.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\update.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\group.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\admin-login1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eraser.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancel1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eraser1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eraser2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eraser3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eraser4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eraser5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eraser6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eraser7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\admin-login2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add_admin1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\networking1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eraser8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancel2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cog-add-icon3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cog-add-icon4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cog-add-icon5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\update1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cog-add-icon6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eraser9.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\back8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="additional image\Button-Turn-Off-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="additional image\eye-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="additional image\12123-eyes-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="additional image\delete-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="additional image\icons8-customer-80.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="additional image\eraser.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="additional image\analytics.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="additional image\exit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="additional image\recycle-bin.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="additional image\refresh.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

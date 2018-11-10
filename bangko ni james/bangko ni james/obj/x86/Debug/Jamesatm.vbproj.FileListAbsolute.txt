@@ -1,0 +1,141 @@
+C:\Users\GAMING_RIG\Documents\Visual Studio 2010\Projects\vbatmsystem\vbatmsystem\bin\Debug\James Bank.exe
+C:\Users\GAMING_RIG\Documents\Visual Studio 2010\Projects\vbatmsystem\vbatmsystem\bin\Debug\James Bank.pdb
+C:\Users\GAMING_RIG\Documents\Visual Studio 2010\Projects\vbatmsystem\vbatmsystem\bin\Debug\James Bank.xml
+C:\Users\GAMING_RIG\Documents\Visual Studio 2010\Projects\vbatmsystem\vbatmsystem\obj\x86\Debug\WindowsApplication1.Login_Panel.resources
+C:\Users\GAMING_RIG\Documents\Visual Studio 2010\Projects\vbatmsystem\vbatmsystem\obj\x86\Debug\WindowsApplication1.BalanceInquiry.resources
+C:\Users\GAMING_RIG\Documents\Visual Studio 2010\Projects\vbatmsystem\vbatmsystem\obj\x86\Debug\WindowsApplication1.AdminPanel.resources
+C:\Users\GAMING_RIG\Documents\Visual Studio 2010\Projects\vbatmsystem\vbatmsystem\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\GAMING_RIG\Documents\Visual Studio 2010\Projects\vbatmsystem\vbatmsystem\obj\x86\Debug\WindowsApplication1.Form4.resources
+C:\Users\GAMING_RIG\Documents\Visual Studio 2010\Projects\vbatmsystem\vbatmsystem\obj\x86\Debug\WindowsApplication1.Deposit.resources
+C:\Users\GAMING_RIG\Documents\Visual Studio 2010\Projects\vbatmsystem\vbatmsystem\obj\x86\Debug\WindowsApplication1.Form6.resources
+C:\Users\GAMING_RIG\Documents\Visual Studio 2010\Projects\vbatmsystem\vbatmsystem\obj\x86\Debug\WindowsApplication1.Form7.resources
+C:\Users\GAMING_RIG\Documents\Visual Studio 2010\Projects\vbatmsystem\vbatmsystem\obj\x86\Debug\WindowsApplication1.Form8.resources
+C:\Users\GAMING_RIG\Documents\Visual Studio 2010\Projects\vbatmsystem\vbatmsystem\obj\x86\Debug\WindowsApplication1.Form9.resources
+C:\Users\GAMING_RIG\Documents\Visual Studio 2010\Projects\vbatmsystem\vbatmsystem\obj\x86\Debug\WindowsApplication1.Loading.resources
+C:\Users\GAMING_RIG\Documents\Visual Studio 2010\Projects\vbatmsystem\vbatmsystem\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\GAMING_RIG\Documents\Visual Studio 2010\Projects\vbatmsystem\vbatmsystem\obj\x86\Debug\Jamesatm.vbproj.GenerateResource.Cache
+C:\Users\GAMING_RIG\Documents\Visual Studio 2010\Projects\vbatmsystem\vbatmsystem\obj\x86\Debug\James Bank.exe
+C:\Users\GAMING_RIG\Documents\Visual Studio 2010\Projects\vbatmsystem\vbatmsystem\obj\x86\Debug\James Bank.xml
+C:\Users\GAMING_RIG\Documents\Visual Studio 2010\Projects\vbatmsystem\vbatmsystem\obj\x86\Debug\James Bank.pdb
+C:\Users\GAMING_RIG\Documents\Visual Studio 2010\Projects\James_atm\vbatmsystem\bin\Debug\James Bank.exe
+C:\Users\GAMING_RIG\Documents\Visual Studio 2010\Projects\James_atm\vbatmsystem\bin\Debug\James Bank.pdb
+C:\Users\GAMING_RIG\Documents\Visual Studio 2010\Projects\James_atm\vbatmsystem\bin\Debug\James Bank.xml
+C:\Users\GAMING_RIG\Documents\Visual Studio 2010\Projects\James_atm\vbatmsystem\obj\x86\Debug\WindowsApplication1.Login_Panel.resources
+C:\Users\GAMING_RIG\Documents\Visual Studio 2010\Projects\James_atm\vbatmsystem\obj\x86\Debug\WindowsApplication1.BalanceInquiry.resources
+C:\Users\GAMING_RIG\Documents\Visual Studio 2010\Projects\James_atm\vbatmsystem\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\GAMING_RIG\Documents\Visual Studio 2010\Projects\James_atm\vbatmsystem\obj\x86\Debug\WindowsApplication1.Deposit.resources
+C:\Users\GAMING_RIG\Documents\Visual Studio 2010\Projects\James_atm\vbatmsystem\obj\x86\Debug\WindowsApplication1.Form6.resources
+C:\Users\GAMING_RIG\Documents\Visual Studio 2010\Projects\James_atm\vbatmsystem\obj\x86\Debug\WindowsApplication1.Form7.resources
+C:\Users\GAMING_RIG\Documents\Visual Studio 2010\Projects\James_atm\vbatmsystem\obj\x86\Debug\WindowsApplication1.Form8.resources
+C:\Users\GAMING_RIG\Documents\Visual Studio 2010\Projects\James_atm\vbatmsystem\obj\x86\Debug\WindowsApplication1.Form9.resources
+C:\Users\GAMING_RIG\Documents\Visual Studio 2010\Projects\James_atm\vbatmsystem\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\GAMING_RIG\Documents\Visual Studio 2010\Projects\James_atm\vbatmsystem\obj\x86\Debug\Jamesatm.vbproj.GenerateResource.Cache
+C:\Users\GAMING_RIG\Documents\Visual Studio 2010\Projects\James_atm\vbatmsystem\obj\x86\Debug\James Bank.exe
+C:\Users\GAMING_RIG\Documents\Visual Studio 2010\Projects\James_atm\vbatmsystem\obj\x86\Debug\James Bank.xml
+C:\Users\GAMING_RIG\Documents\Visual Studio 2010\Projects\James_atm\vbatmsystem\obj\x86\Debug\James Bank.pdb
+C:\Users\GAMING_RIG\Documents\Visual Studio 2010\Projects\James_atm\vbatmsystem\obj\x86\Debug\WindowsApplication1.Admincreateaccount.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\James_atm\vbatmsystem\obj\x86\Debug\James Bank.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\James_atm\vbatmsystem\obj\x86\Debug\James Bank.xml
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\James_atm\vbatmsystem\obj\x86\Debug\James Bank.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\James_atm\vbatmsystem\bin\Debug\James Bank.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\James_atm\vbatmsystem\bin\Debug\James Bank.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\James_atm\vbatmsystem\bin\Debug\James Bank.xml
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\James_atm\vbatmsystem\obj\x86\Debug\WindowsApplication1.Login_Panel.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\James_atm\vbatmsystem\obj\x86\Debug\WindowsApplication1.BalanceInquiry.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\James_atm\vbatmsystem\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\James_atm\vbatmsystem\obj\x86\Debug\WindowsApplication1.Admincreateaccount.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\James_atm\vbatmsystem\obj\x86\Debug\WindowsApplication1.Deposit.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\James_atm\vbatmsystem\obj\x86\Debug\WindowsApplication1.Form6.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\James_atm\vbatmsystem\obj\x86\Debug\WindowsApplication1.Form7.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\James_atm\vbatmsystem\obj\x86\Debug\WindowsApplication1.Form8.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\James_atm\vbatmsystem\obj\x86\Debug\WindowsApplication1.Form9.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\James_atm\vbatmsystem\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\James_atm\vbatmsystem\obj\x86\Debug\Jamesatm.vbproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\James_atm\vbatmsystem\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\James_atm\vbatmsystem\obj\x86\Debug\WindowsApplication1.Form4.resources
+C:\Users\GAMING_RIG\Documents\Visual Studio 2010\Projects\James_atm\vbatmsystem\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\GAMING_RIG\Documents\Visual Studio 2010\Projects\James_atm\vbatmsystem\obj\x86\Debug\WindowsApplication1.Form4.resources
+C:\Users\jenjen\Documents\Visual Studio 2010\Projects\bangko ni james\bangko ni james\obj\x86\Debug\James Bank.exe
+C:\Users\jenjen\Documents\Visual Studio 2010\Projects\bangko ni james\bangko ni james\obj\x86\Debug\James Bank.xml
+C:\Users\jenjen\Documents\Visual Studio 2010\Projects\bangko ni james\bangko ni james\obj\x86\Debug\James Bank.pdb
+C:\Users\jenjen\Documents\Visual Studio 2010\Projects\bangko ni james\bangko ni james\bin\Debug\James Bank.exe
+C:\Users\jenjen\Documents\Visual Studio 2010\Projects\bangko ni james\bangko ni james\bin\Debug\James Bank.pdb
+C:\Users\jenjen\Documents\Visual Studio 2010\Projects\bangko ni james\bangko ni james\bin\Debug\James Bank.xml
+C:\Users\jenjen\Documents\Visual Studio 2010\Projects\bangko ni james\bangko ni james\obj\x86\Debug\WindowsApplication1.CustomerPasswordChange.resources
+C:\Users\jenjen\Documents\Visual Studio 2010\Projects\bangko ni james\bangko ni james\obj\x86\Debug\WindowsApplication1.Form4.resources
+C:\Users\jenjen\Documents\Visual Studio 2010\Projects\bangko ni james\bangko ni james\obj\x86\Debug\WindowsApplication1.Transaction_Panel.resources
+C:\Users\jenjen\Documents\Visual Studio 2010\Projects\bangko ni james\bangko ni james\obj\x86\Debug\WindowsApplication1.Login_Panel.resources
+C:\Users\jenjen\Documents\Visual Studio 2010\Projects\bangko ni james\bangko ni james\obj\x86\Debug\WindowsApplication1.BalanceInquiry.resources
+C:\Users\jenjen\Documents\Visual Studio 2010\Projects\bangko ni james\bangko ni james\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\jenjen\Documents\Visual Studio 2010\Projects\bangko ni james\bangko ni james\obj\x86\Debug\WindowsApplication1.Admincreateaccount.resources
+C:\Users\jenjen\Documents\Visual Studio 2010\Projects\bangko ni james\bangko ni james\obj\x86\Debug\WindowsApplication1.Deposit.resources
+C:\Users\jenjen\Documents\Visual Studio 2010\Projects\bangko ni james\bangko ni james\obj\x86\Debug\WindowsApplication1.Form6.resources
+C:\Users\jenjen\Documents\Visual Studio 2010\Projects\bangko ni james\bangko ni james\obj\x86\Debug\WindowsApplication1.Form7.resources
+C:\Users\jenjen\Documents\Visual Studio 2010\Projects\bangko ni james\bangko ni james\obj\x86\Debug\WindowsApplication1.Form8.resources
+C:\Users\jenjen\Documents\Visual Studio 2010\Projects\bangko ni james\bangko ni james\obj\x86\Debug\WindowsApplication1.Form9.resources
+C:\Users\jenjen\Documents\Visual Studio 2010\Projects\bangko ni james\bangko ni james\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\jenjen\Documents\Visual Studio 2010\Projects\bangko ni james\bangko ni james\obj\x86\Debug\Jamesatm.vbproj.GenerateResource.Cache
+C:\Users\katherine\Documents\Visual Studio 2010\Projects\bangko ni james\bangko ni james\obj\x86\Debug\James Bank.exe
+C:\Users\katherine\Documents\Visual Studio 2010\Projects\bangko ni james\bangko ni james\obj\x86\Debug\James Bank.xml
+C:\Users\katherine\Documents\Visual Studio 2010\Projects\bangko ni james\bangko ni james\obj\x86\Debug\James Bank.pdb
+C:\Users\katherine\Documents\Visual Studio 2010\Projects\bangko ni james\bangko ni james\bin\Debug\James Bank.exe
+C:\Users\katherine\Documents\Visual Studio 2010\Projects\bangko ni james\bangko ni james\bin\Debug\James Bank.pdb
+C:\Users\katherine\Documents\Visual Studio 2010\Projects\bangko ni james\bangko ni james\bin\Debug\James Bank.xml
+C:\Users\katherine\Documents\Visual Studio 2010\Projects\bangko ni james\bangko ni james\obj\x86\Debug\WindowsApplication1.CustomerPasswordChange.resources
+C:\Users\katherine\Documents\Visual Studio 2010\Projects\bangko ni james\bangko ni james\obj\x86\Debug\WindowsApplication1.Form4.resources
+C:\Users\katherine\Documents\Visual Studio 2010\Projects\bangko ni james\bangko ni james\obj\x86\Debug\WindowsApplication1.ClientTransHistory.resources
+C:\Users\katherine\Documents\Visual Studio 2010\Projects\bangko ni james\bangko ni james\obj\x86\Debug\WindowsApplication1.TransacHistory.resources
+C:\Users\katherine\Documents\Visual Studio 2010\Projects\bangko ni james\bangko ni james\obj\x86\Debug\WindowsApplication1.Transaction_Panel.resources
+C:\Users\katherine\Documents\Visual Studio 2010\Projects\bangko ni james\bangko ni james\obj\x86\Debug\WindowsApplication1.Login_Panel.resources
+C:\Users\katherine\Documents\Visual Studio 2010\Projects\bangko ni james\bangko ni james\obj\x86\Debug\WindowsApplication1.BalanceInquiry.resources
+C:\Users\katherine\Documents\Visual Studio 2010\Projects\bangko ni james\bangko ni james\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\katherine\Documents\Visual Studio 2010\Projects\bangko ni james\bangko ni james\obj\x86\Debug\WindowsApplication1.Admincreateaccount.resources
+C:\Users\katherine\Documents\Visual Studio 2010\Projects\bangko ni james\bangko ni james\obj\x86\Debug\WindowsApplication1.Deposit.resources
+C:\Users\katherine\Documents\Visual Studio 2010\Projects\bangko ni james\bangko ni james\obj\x86\Debug\WindowsApplication1.Form6.resources
+C:\Users\katherine\Documents\Visual Studio 2010\Projects\bangko ni james\bangko ni james\obj\x86\Debug\WindowsApplication1.Form7.resources
+C:\Users\katherine\Documents\Visual Studio 2010\Projects\bangko ni james\bangko ni james\obj\x86\Debug\WindowsApplication1.Form8.resources
+C:\Users\katherine\Documents\Visual Studio 2010\Projects\bangko ni james\bangko ni james\obj\x86\Debug\WindowsApplication1.Form9.resources
+C:\Users\katherine\Documents\Visual Studio 2010\Projects\bangko ni james\bangko ni james\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\katherine\Documents\Visual Studio 2010\Projects\bangko ni james\bangko ni james\obj\x86\Debug\Jamesatm.vbproj.GenerateResource.Cache
+C:\Users\GAMING_RIG\Documents\Visual Studio 2010\Projects\bangko ni james\bangko ni james\bin\Debug\James Bank.exe
+C:\Users\GAMING_RIG\Documents\Visual Studio 2010\Projects\bangko ni james\bangko ni james\bin\Debug\James Bank.pdb
+C:\Users\GAMING_RIG\Documents\Visual Studio 2010\Projects\bangko ni james\bangko ni james\bin\Debug\James Bank.xml
+C:\Users\GAMING_RIG\Documents\Visual Studio 2010\Projects\bangko ni james\bangko ni james\obj\x86\Debug\WindowsApplication1.CustomerPasswordChange.resources
+C:\Users\GAMING_RIG\Documents\Visual Studio 2010\Projects\bangko ni james\bangko ni james\obj\x86\Debug\WindowsApplication1.Form4.resources
+C:\Users\GAMING_RIG\Documents\Visual Studio 2010\Projects\bangko ni james\bangko ni james\obj\x86\Debug\WindowsApplication1.ClientTransHistory.resources
+C:\Users\GAMING_RIG\Documents\Visual Studio 2010\Projects\bangko ni james\bangko ni james\obj\x86\Debug\WindowsApplication1.TransacHistory.resources
+C:\Users\GAMING_RIG\Documents\Visual Studio 2010\Projects\bangko ni james\bangko ni james\obj\x86\Debug\WindowsApplication1.Login_Panel.resources
+C:\Users\GAMING_RIG\Documents\Visual Studio 2010\Projects\bangko ni james\bangko ni james\obj\x86\Debug\WindowsApplication1.BalanceInquiry.resources
+C:\Users\GAMING_RIG\Documents\Visual Studio 2010\Projects\bangko ni james\bangko ni james\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\GAMING_RIG\Documents\Visual Studio 2010\Projects\bangko ni james\bangko ni james\obj\x86\Debug\WindowsApplication1.Admincreateaccount.resources
+C:\Users\GAMING_RIG\Documents\Visual Studio 2010\Projects\bangko ni james\bangko ni james\obj\x86\Debug\WindowsApplication1.Deposit.resources
+C:\Users\GAMING_RIG\Documents\Visual Studio 2010\Projects\bangko ni james\bangko ni james\obj\x86\Debug\WindowsApplication1.Form6.resources
+C:\Users\GAMING_RIG\Documents\Visual Studio 2010\Projects\bangko ni james\bangko ni james\obj\x86\Debug\WindowsApplication1.Form7.resources
+C:\Users\GAMING_RIG\Documents\Visual Studio 2010\Projects\bangko ni james\bangko ni james\obj\x86\Debug\WindowsApplication1.Form8.resources
+C:\Users\GAMING_RIG\Documents\Visual Studio 2010\Projects\bangko ni james\bangko ni james\obj\x86\Debug\WindowsApplication1.Form9.resources
+C:\Users\GAMING_RIG\Documents\Visual Studio 2010\Projects\bangko ni james\bangko ni james\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\GAMING_RIG\Documents\Visual Studio 2010\Projects\bangko ni james\bangko ni james\obj\x86\Debug\Jamesatm.vbproj.GenerateResource.Cache
+C:\Users\GAMING_RIG\Documents\Visual Studio 2010\Projects\bangko ni james\bangko ni james\obj\x86\Debug\James Bank.exe
+C:\Users\GAMING_RIG\Documents\Visual Studio 2010\Projects\bangko ni james\bangko ni james\obj\x86\Debug\James Bank.xml
+C:\Users\GAMING_RIG\Documents\Visual Studio 2010\Projects\bangko ni james\bangko ni james\obj\x86\Debug\James Bank.pdb
+C:\Users\GAMING_RIG\Documents\Visual Studio 2010\Projects\VB finals\VB finals\bangko ni james\bangko ni james\obj\x86\Debug\James Bank.exe
+C:\Users\GAMING_RIG\Documents\Visual Studio 2010\Projects\VB finals\VB finals\bangko ni james\bangko ni james\obj\x86\Debug\James Bank.xml
+C:\Users\GAMING_RIG\Documents\Visual Studio 2010\Projects\VB finals\VB finals\bangko ni james\bangko ni james\obj\x86\Debug\James Bank.pdb
+C:\Users\GAMING_RIG\Documents\Visual Studio 2010\Projects\VB finals\VB finals\bangko ni james\bangko ni james\bin\Debug\James Bank.exe
+C:\Users\GAMING_RIG\Documents\Visual Studio 2010\Projects\VB finals\VB finals\bangko ni james\bangko ni james\bin\Debug\James Bank.pdb
+C:\Users\GAMING_RIG\Documents\Visual Studio 2010\Projects\VB finals\VB finals\bangko ni james\bangko ni james\bin\Debug\James Bank.xml
+C:\Users\GAMING_RIG\Documents\Visual Studio 2010\Projects\VB finals\VB finals\bangko ni james\bangko ni james\obj\x86\Debug\WindowsApplication1.CustomerPasswordChange.resources
+C:\Users\GAMING_RIG\Documents\Visual Studio 2010\Projects\VB finals\VB finals\bangko ni james\bangko ni james\obj\x86\Debug\WindowsApplication1.Form4.resources
+C:\Users\GAMING_RIG\Documents\Visual Studio 2010\Projects\VB finals\VB finals\bangko ni james\bangko ni james\obj\x86\Debug\WindowsApplication1.ClientTransHistory.resources
+C:\Users\GAMING_RIG\Documents\Visual Studio 2010\Projects\VB finals\VB finals\bangko ni james\bangko ni james\obj\x86\Debug\WindowsApplication1.TransacHistory.resources
+C:\Users\GAMING_RIG\Documents\Visual Studio 2010\Projects\VB finals\VB finals\bangko ni james\bangko ni james\obj\x86\Debug\WindowsApplication1.Login_Panel.resources
+C:\Users\GAMING_RIG\Documents\Visual Studio 2010\Projects\VB finals\VB finals\bangko ni james\bangko ni james\obj\x86\Debug\WindowsApplication1.BalanceInquiry.resources
+C:\Users\GAMING_RIG\Documents\Visual Studio 2010\Projects\VB finals\VB finals\bangko ni james\bangko ni james\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\GAMING_RIG\Documents\Visual Studio 2010\Projects\VB finals\VB finals\bangko ni james\bangko ni james\obj\x86\Debug\WindowsApplication1.Admincreateaccount.resources
+C:\Users\GAMING_RIG\Documents\Visual Studio 2010\Projects\VB finals\VB finals\bangko ni james\bangko ni james\obj\x86\Debug\WindowsApplication1.Deposit.resources
+C:\Users\GAMING_RIG\Documents\Visual Studio 2010\Projects\VB finals\VB finals\bangko ni james\bangko ni james\obj\x86\Debug\WindowsApplication1.Form6.resources
+C:\Users\GAMING_RIG\Documents\Visual Studio 2010\Projects\VB finals\VB finals\bangko ni james\bangko ni james\obj\x86\Debug\WindowsApplication1.Form7.resources
+C:\Users\GAMING_RIG\Documents\Visual Studio 2010\Projects\VB finals\VB finals\bangko ni james\bangko ni james\obj\x86\Debug\WindowsApplication1.Form8.resources
+C:\Users\GAMING_RIG\Documents\Visual Studio 2010\Projects\VB finals\VB finals\bangko ni james\bangko ni james\obj\x86\Debug\WindowsApplication1.Form9.resources
+C:\Users\GAMING_RIG\Documents\Visual Studio 2010\Projects\VB finals\VB finals\bangko ni james\bangko ni james\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\GAMING_RIG\Documents\Visual Studio 2010\Projects\VB finals\VB finals\bangko ni james\bangko ni james\obj\x86\Debug\Jamesatm.vbproj.GenerateResource.Cache
